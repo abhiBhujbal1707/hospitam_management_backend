@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\dotnet\\hospitalApi\\hospitalApi.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\dotnet\\hospitam_management_backend\\hospitalApi\\hospitalApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\dotnet\\hospitalApi\\hospitalApi.csproj": {
+    "C:\\Users\\Admin\\Desktop\\dotnet\\hospitam_management_backend\\hospitalApi\\hospitalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitalApi\\hospitalApi.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitam_management_backend\\hospitalApi\\hospitalApi.csproj",
         "projectName": "hospitalApi",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitalApi\\hospitalApi.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitam_management_backend\\hospitalApi\\hospitalApi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitalApi\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\dotnet\\hospitam_management_backend\\hospitalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
